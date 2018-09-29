@@ -4,7 +4,7 @@ We beleive that Open Source should be open to everbody, to ensure that the *\<Pr
 1. Comments on pull requests should be about the code not the person behind the code
 2. Concider the project when expressing opinions in public places including social media
 3. Harrassment, hate speach and illegal activity is not welcome, in public or in private 
-4. Attempting to interfer wil the complaints process is not allowed.
+4. Attempting to interfer with the complaints process is not allowed.
 
 # Calarification
 
